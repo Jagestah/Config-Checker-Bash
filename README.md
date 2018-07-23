@@ -3,3 +3,5 @@ Enter all the IPs of the devices needing to be checked in to the device_list.txt
 A backup of the running config will be saved in the Backups folder.
 
 A copy of the output sent to the terminal will be saved in the Logs folder.
+
+Run script via config_bash.sh
